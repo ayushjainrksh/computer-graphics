@@ -18,3 +18,7 @@ or<br />
 6. If you get an error try ```sudo apt-get update``` and repeat the process
 
 7. Now you can include your graphics file in C/C++ programs.
+
+8. To compile a program file named **hello.cpp** use ```g++ hello.cpp -lgraph```.
+
+9. To run the program type ```./a.out```.
