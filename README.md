@@ -22,3 +22,6 @@ or<br />
 8. To compile a program file named **hello.cpp** use ```g++ hello.cpp -lgraph```.
 
 9. To run the program type ```./a.out```.
+
+Install python
+https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
